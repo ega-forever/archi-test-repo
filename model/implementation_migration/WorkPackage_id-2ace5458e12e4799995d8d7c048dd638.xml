@@ -1,0 +1,11 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BIQ-123 [Work Package]"
+    id="id-2ace5458e12e4799995d8d7c048dd638">
+  <properties
+      key="Имя"
+      value="ССП-123"/>
+  <properties
+      key="Код"
+      value="334П"/>
+</archimate:WorkPackage>
